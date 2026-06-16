@@ -5,7 +5,7 @@ Mechatronics Engineering student at TMU working at the intersection of hardware 
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayansidd)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidayan25@gmail.com)
 
 ## What I Work On
 
